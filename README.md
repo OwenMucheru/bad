@@ -5,6 +5,7 @@ Official website for the Rotaract Club of Chuka University — built with React 
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (v16 or higher)
 - npm
 
@@ -67,6 +68,7 @@ Replace `YOUR_FORM_ID` in `Contact.jsx` with your actual [Formspree](https://for
 You can deploy this to GitHub Pages, Netlify, or Vercel easily.
 
 ### GitHub Pages
+
 ```bash
 npm install --save gh-pages
 # Add to package.json: "homepage": "https://YOUR_USERNAME.github.io/rotaract-chuka"
